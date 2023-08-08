@@ -1,8 +1,15 @@
-# React + Vite
+# simple cardshopping
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+this is a simple react app , in it i implemented the redux concpts 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# i used in this project:
+- react
+- tailwindcss
+- react-redux
+- redux-devtool
+
+- app on netifly (https://64d28f1badf7ad16dda179f0--admirable-marshmallow-e32022.netlify.app/)
+
+- # note
+   i focus on the redux concept in this project ,so you maybe find some bug in other thingd
